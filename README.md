@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Susmit Padgelwar
-<br>🎨 UI Engineer | 💻 Front-End Developer | 🚀 Fresher
+<br>🎨 UI Engineer | 💻 Front-End Developer | 
 <br><br>
 ## 🎯 Career Objective
-<br>To start my career as a **UI Engineer**, contribute to real-world projects, and continuously enhance my skills in both design and front-end development.
+<br>To start my career as a **UI Engineer**, contribute to real-world projects, and continuously enhance my skills in both user interface design and front-end development.
 <br><br>
 ## 💫 About Me:
 <br>I am a passionate **UI Engineer** with hands-on experience in designing and developing user-friendly, responsive web interfaces.
